@@ -1,7 +1,8 @@
 # gv — git view
 
+**English** | [简体中文](README.zh-CN.md)
+
 A small, good-looking terminal Git panel, in the spirit of VS Code's Source Control view.
-一个轻量、好看的终端 Git 面板，类似 VS Code 的源代码管理视图。
 
 ![gv screenshot](docs/screenshot.png)
 
