@@ -3,6 +3,8 @@
 A small, good-looking terminal Git panel, in the spirit of VS Code's Source Control view.
 一个轻量、好看的终端 Git 面板，类似 VS Code 的源代码管理视图。
 
+![gv screenshot](docs/screenshot.png)
+
 - Current branch card: upstream, ahead/behind, published / synced status, working-tree changes
 - Commit list — shows the latest 6, scroll for more (up to 200); conventional-commit prefixes (`feat:`, `fix:`, `scope:`) are color-coded
 - Branch list — switch, delete (with a force-delete prompt for unmerged branches)
