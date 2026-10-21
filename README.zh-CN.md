@@ -18,9 +18,9 @@
 需要 Go 1.24+ 和 `git`。
 
 ```bash
-go install github.com/cerebay/gv@latest
+go install github.com/cerebay/gitview/cmd/gv@latest
 # 或者
-git clone https://github.com/cerebay/gv && cd gv && go build -o ~/.local/bin/gv .
+git clone https://github.com/cerebay/gitview && cd gitview && go build -o ~/.local/bin/gv ./cmd/gv
 ```
 
 ## 使用

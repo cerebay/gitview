@@ -1,4 +1,4 @@
-module github.com/cerebay/gv
+module github.com/cerebay/gitview
 
 go 1.24.0
 

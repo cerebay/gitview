@@ -18,9 +18,9 @@ A small, good-looking terminal Git panel, in the spirit of VS Code's Source Cont
 Requires Go 1.24+ and `git`.
 
 ```bash
-go install github.com/cerebay/gv@latest
+go install github.com/cerebay/gitview/cmd/gv@latest
 # or
-git clone https://github.com/cerebay/gv && cd gv && go build -o ~/.local/bin/gv .
+git clone https://github.com/cerebay/gitview && cd gitview && go build -o ~/.local/bin/gv ./cmd/gv
 ```
 
 ## Usage
